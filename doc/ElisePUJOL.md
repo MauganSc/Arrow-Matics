@@ -8,3 +8,9 @@ Créer un système de recharge automatique. Contrôler ainsi la sarbacane soit g
 Pendant cette séance, nous avons cherché sur internet des idées de comment le réaliser en regardant le fonctionnement de tout ce qu'on
 avait besoin.
 Nous avons décidé de nommer notre projet Arrow-matics.
+
+* Séance du 12 Janvier 2018
+
+On a testé la sarbacane. 
+Liste du matériel : 
+-
