@@ -7,3 +7,8 @@ Nous avons choisit de faire une sarbacane automatique avec une compression de l'
 Celle-ci pourat être controller à distance.
 Nous avons ensuite fait des recherche sur ce qui existe déjà pour nous donné une première idée de notre projet.
 Celui-ci ce nommera normalement Arrow-matics.
+
+
+* Séance du 12 Janvier 2017
+
+Nous avons essayer de faire fonctionner un moteur pas à pas a et de contrôler le moteur avec notre téléphone par connexion bluethooth. pour l'instant on arrive a le faire démarrer ou s'arreter mais on voudrais arriver a le faire tourner dans un sens tant que on reste appuyer sur un bouton et de même dans l'autre sens
