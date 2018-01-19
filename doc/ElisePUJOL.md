@@ -12,7 +12,7 @@ Nous avons décidé de nommer notre projet Arrow-matics.
 * Séance du 12 Janvier 2018
 
 On a testé la sarbacane. On a décidé de propulser la fléchette grâce à un compresseur à air.
-On a testé le moteur pas à pas. On a essayé de changer le code pour qu'il puisse tourner dans un sens puis dans l'autre à notre demande. 
+On a testé le moteur pas à pas. On a essayé de changer le code pour le contrôler via le téléphone par bluetooth et pour qu'il puisse tourner dans un sens puis dans l'autre à notre demande. 
 
 * Séance du 19 Janvier 2018
 
