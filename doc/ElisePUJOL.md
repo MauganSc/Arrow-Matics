@@ -11,6 +11,11 @@ Nous avons décidé de nommer notre projet Arrow-matics.
 
 * Séance du 12 Janvier 2018
 
-On a testé la sarbacane. 
-Liste du matériel : 
--
+On a testé la sarbacane. On a décidé de propulser la fléchette grâce à un compresseur à air.
+On a testé le moteur pas à pas. On a essayé de changer le code pour qu'il puisse tourner dans un sens puis dans l'autre à notre demande. 
+
+* Séance du 19 Janvier 2018
+
+On a reçu le compresseur à air. On l'a testé et soudé aux fils de tel manière à utiliser une batterie car le PS280 ne délivrait pas assez de courant.
+J'ai dessiné les pièces sur inventor (barillet + clapet) pour les créer aux Templiers. 
+J'ai fais des recherches sur l'électrovannes pour comprendre comment ça fonctionne et comment l'utiliser avec l'arduino.
