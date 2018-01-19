@@ -17,5 +17,5 @@ On a testé le moteur pas à pas. On a essayé de changer le code pour qu'il pui
 * Séance du 19 Janvier 2018
 
 On a reçu le compresseur à air. On l'a testé et soudé aux fils de tel manière à utiliser une batterie car le PS280 ne délivrait pas assez de courant.
-J'ai dessiné les pièces sur inventor (barillet + clapet) pour les créer aux Templiers. 
+J'ai dessiné les pièces sur inventor pour en créer certaines aux Templiers et pour voir l'ensemble du projet. 
 J'ai fais des recherches sur l'électrovannes pour comprendre comment ça fonctionne et comment l'utiliser avec l'arduino.
