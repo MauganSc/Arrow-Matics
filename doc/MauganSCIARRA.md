@@ -20,8 +20,10 @@ Nous avons reçu le compresseur, nous avons changer le cable d'allimentation pou
 Après test cela fonctionne si on bloque l'arriver d'air pour augmenter la pression.
 
 * Séance du 23 Janvier 2018
+
 Présentation du projet version diapo. Par la suite nous avons programmer une rotation de 60° du moteur par pression de bouton sur le teléhone en prévision du système de rechargement
 
 * Séance du 6 Fevrier 2018
+
 Nous avons souder le compresseur a air a un module permettant de controler l'alimentation sur l'arduino puis nous avons programmer le fait de pouvoir allumer ou eteindre le compresseur par bluetooth.
 On c'est rendu compte de plusieurs problème : Nous n'avons pas assez de sortie sur un arduino pour tout relier et en ce qui concerne le rechargement il faut pouvoir récuperer l'angle du moteur ce qui peut poser problème avec un moteur PaP.
