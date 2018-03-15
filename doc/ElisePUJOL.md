@@ -1,4 +1,5 @@
 
+
 # Cahier de suivi du projet de Elise PUJOL
 
 * Séance du 20 Décembre 2017 
@@ -34,3 +35,8 @@ Séance du 22 février 2018
 
 Nous avons quelques problèmes.. Nous n'avons pas assez de sorties sur l'arduino pour relier les 3 moteurs. Donc il va falloir réussir à faire communiquer mon arduino avec celui de Maugan. De plus, pour le rechargement, il faudra essayer de récupérer la postition initale de notre sarbacanne pour qu'elle puisse se mettre à la verticale droite.
 Donc dans cette séance, on va essayer de résoudre ces problèmes.
+J'ai essayé en vain de connecter les deux arduinos.
+
+Séance du 15 mars 2018
+
+On a reçu le solénoïde. Seulement, on a remarqué qu'il n'avait pas assez de puissance pour pincer le tuyau où l'ai arrive. De ce fait, M Masson nous a passé un servo-moteur pour que quand il tourne, à l'aide d'un fil, il pousse le tuyan et arrive à le pincer pour couper l'arrivée d'air. Nous avons donc essayé de le faire fonctionner. Seulement, nous avons un problème de code. Il ne tourne pas en continu dans un seul sens. Mais, il fait des allers-retour aléatoire des deux côtés.
