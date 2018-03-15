@@ -27,3 +27,7 @@ Présentation du projet version diapo. Par la suite nous avons programmer une ro
 
 Nous avons souder le compresseur a air a un module permettant de controler l'alimentation sur l'arduino puis nous avons programmer le fait de pouvoir allumer ou eteindre le compresseur par bluetooth.
 On c'est rendu compte de plusieurs problème : Nous n'avons pas assez de sortie sur un arduino pour tout relier et en ce qui concerne le rechargement il faut pouvoir récuperer l'angle du moteur ce qui peut poser problème avec un moteur PaP.
+
+* Séance du 22 Fevrier 2018
+J'ai essayer de faire un programme qui recuper l'angle du moteur PaP pour Pour crée un stade de départ et un stade final et avoir un angle variant entre 0 et 90 degrès. De plus il faudrait reussir a réinitialliser la position pour recharger soit à remettre l'angle à 90 degrès.
+Cela fonctionne a peu près mais des améliorations restes a faire.
