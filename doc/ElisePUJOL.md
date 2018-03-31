@@ -31,12 +31,17 @@ On a fait la présentation du projet. On a fait ensuite le programme pour pilote
 
 On a soudé un module pour controler l'alimention du compresseur à air. On a réussi à coder ce module, de telle sorte à l'allumer et l'éteindre quand on le veut. 
 
-Séance du 22 février 2018
+* Séance du 22 février 2018
 
 Nous avons quelques problèmes.. Nous n'avons pas assez de sorties sur l'arduino pour relier les 3 moteurs. Donc il va falloir réussir à faire communiquer mon arduino avec celui de Maugan. De plus, pour le rechargement, il faudra essayer de récupérer la postition initale de notre sarbacanne pour qu'elle puisse se mettre à la verticale droite.
 Donc dans cette séance, on va essayer de résoudre ces problèmes.
 J'ai essayé en vain de connecter les deux arduinos.
 
-Séance du 15 mars 2018
+* Séance du 15 mars 2018
 
 On a reçu le solénoïde. Seulement, on a remarqué qu'il n'avait pas assez de puissance pour pincer le tuyau où l'ai arrive. De ce fait, M Masson nous a passé un servo-moteur pour que quand il tourne, à l'aide d'un fil, il pousse le tuyan et arrive à le pincer pour couper l'arrivée d'air. Nous avons donc essayé de le faire fonctionner. Seulement, nous avons un problème de code. Il ne tourne pas en continu dans un seul sens. Mais, il fait des allers-retour aléatoire des deux côtés.
+
+* Séance du 27 mars 2018
+
+Première partie des présentations. 
+Maugan et moi avons essayé de trouver un moyen pour fixer le tuyau de telle sorte que quand le servomoteur s'active, le tuyau se plie suffisament pour couper l'arriver d'air et augmenter la pression. Nous avons alors essayé avec un clou, et ceci fonctionne !!!!
