@@ -23,11 +23,11 @@ Dans ce projet, on aimerait créer une sarbacane électronique contrôlée par u
 <p> Pour les fixations, nous utiliserons de la pâte à modeler et des serflex. </p>
 
 <h2> Explication du projet : </h2>
-<pre>
-Nous allons fixer un moteur pas à pas à la base de la sarbacane pour pouvoir contrôler l'inclinaison de celle-ci. En ce qui concerne la rotation de droite à gauche, elle sera evectuée via le mouvement de la plateforme sur laquelle le lanceur sera fixé.
-Pour recharger la sarbanne, nous la plaçerons à la verticale sous un barillet. Celui-ci tournera en laissant tomber une flechette directement dans l'orifice de la sarbacanne.
-Pour la propulsion, on contrôlera l'alimentation d'un compresseur à air et l'ouverture d'une vanne pour relâcher la pression.
-Tout cela sera géré par arduino et contrôler par téléphone via Bluetooth.</pre>
+<p>
+Nous allons fixer un moteur pas à pas à la base de la sarbacane pour pouvoir contrôler l'inclinaison de celle-ci. En ce qui concerne la rotation de droite à gauche, elle sera evectuée via le mouvement de la plateforme sur laquelle le lanceur sera fixé. <br>
+Pour recharger la sarbanne, nous la plaçerons à la verticale sous un barillet. Celui-ci tournera en laissant tomber une flechette directement dans l'orifice de la sarbacanne. <br>
+Pour la propulsion, on contrôlera l'alimentation d'un compresseur à air et l'ouverture d'une vanne pour relâcher la pression. <br>
+Tout cela sera géré par arduino et contrôler par téléphone via Bluetooth.</p>
 
 <ol>
   <h3><li>Rotation des moteurs</h3><ul>
