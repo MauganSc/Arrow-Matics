@@ -45,3 +45,17 @@ On a reçu le solénoïde. Seulement, on a remarqué qu'il n'avait pas assez de 
 
 Première partie des présentations. 
 Maugan et moi avons essayé de trouver un moyen pour fixer le tuyau de telle sorte que quand le servomoteur s'active, le tuyau se plie suffisament pour couper l'arriver d'air et augmenter la pression. Nous avons alors essayé avec un clou, et ceci fonctionne !!!!
+
+* Séance du 4 avril 2018
+
+
+
+* Séance du 17 avril 2018
+
+* Séance du 2 mai 2018
+
+Nous avons réussi à fabriquer la pièce qui permet de relier la sarbacanne au solénoïde. On ne comprenait pas pourquoi la pression n'était pas assez forte, pour propulser la fléchette. En effet, la fléchette n'était jetée avec aucune puissance. Nous avons compris après qu'il y avait une mauvaise isolation, donc on a mis du chatertone autour de la pièce. La fléchette est propulsée avec plus de puissance. M Masson nous a passé un autre arduino car on n'avait pas assez d'entrés/sorties pour relier tous nos moteurs.
+
+* Séance du 7 mai 2018
+
+Nous avons connecté nos moteurs et notre module bluetooth à notre nouvel arduino. On s'est rendu compte que lorsque on active le bluetooth, il n'y plus assez de tension pour les moteurs. Il nous faut donc ........
