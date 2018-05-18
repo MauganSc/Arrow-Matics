@@ -48,6 +48,7 @@ Maugan et moi avons essayé de trouver un moyen pour fixer le tuyau de telle sor
 
 * Séance du 4 avril 2018
 
+Nous avons refais des tests pour que la pression soit plus forte car l'expérience avec le clou n'était pas satisfaisant. 
 
 
 * Séance du 17 avril 2018
