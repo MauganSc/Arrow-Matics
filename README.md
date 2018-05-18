@@ -35,7 +35,7 @@ Tout cela sera géré par arduino et contrôler par téléphone via Bluetooth.</
 
 <ol>
   <h3><li>Rotation des moteurs</h3><ul>
-  <li>Moteurs de direction</li>
+  <li>Moteurs de direction</li> ![Moteurs pas à pas](http://french.arduinostarterskit.com/quality-1888493-stepper-motor-driver-module)
   <li>Moteur du barillet </li></ul></li>
   
 <h3><li>Contrôle de la propulsion</h3><ul>
