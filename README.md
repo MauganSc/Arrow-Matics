@@ -9,13 +9,17 @@ Ce projet est réalisé par SCIARRA Maugan et PUJOL Elise dans le cadre des proj
 Dans ce projet, on aimerait créer une sarbacane électronique contrôlée par un module bluetooth sur le téléphone pour pouvoir orienter notre sarbacane à notre guise et pouvoir la recharger.</p>
 <hr>
 
+<h2> Pourquoi avons-nous choisi ce projet ? </h2>
+Nous avons choisi de réaliser une sarbacanne électonique car on voulait un projet amusant. Nous sommes tous les deux frillant de FPS (jeu de tir à la première personne). Nous avons constaté qu'auparavant il y a eut plusieurs projet sur la fabrication d'une "arme" électronique (nerf). C'est pour cela que nous avons préféré réaliser une sarbacanne plutôt qu'un modèle déjà fait.
+<hr>
+
 <h2>Matériels utilisés :  </h2>
 
 <ul>
-<li>sarbacanne </li>
+<li> sarbacanne </li>
 <li> moteurs pas à pas </li>
 <li> compresseur à air </li>
-<li> électrovanne </li>
+<li> solénoïde </li>
 <li> support rotatif </li>
 <li> barillet </li>
 <li> un system bluetooth </li> </ul>
