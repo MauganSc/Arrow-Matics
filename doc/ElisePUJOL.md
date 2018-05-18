@@ -53,6 +53,8 @@ Nous avons refais des tests pour que la pression soit plus forte car l'expérien
 
 * Séance du 17 avril 2018
 
+Nous avons essayé de relier la sarbacanne et le solénoïde. Les pièces ne collent pas entre elles.
+
 * Séance du 2 mai 2018
 
 Nous avons réussi à fabriquer la pièce qui permet de relier la sarbacanne au solénoïde. On ne comprenait pas pourquoi la pression n'était pas assez forte, pour propulser la fléchette. En effet, la fléchette n'était jetée avec aucune puissance. Nous avons compris après qu'il y avait une mauvaise isolation, donc on a mis du chatertone autour de la pièce. La fléchette est propulsée avec plus de puissance. M Masson nous a passé un autre arduino car on n'avait pas assez d'entrés/sorties pour relier tous nos moteurs.
