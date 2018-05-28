@@ -10,13 +10,13 @@ Dans ce projet, on aimerait créer une sarbacane électronique contrôlée par u
 <hr>
 
 <h2> Pourquoi avons-nous choisi ce projet ? </h2>
-Nous avons choisi de réaliser une sarbacanne électonique car on voulait un projet amusant. Nous sommes tous les deux frillant de FPS (jeu de tir à la première personne). Nous avons constaté qu'auparavant il y a eut plusieurs projet sur la fabrication d'une "arme" électronique (nerf). C'est pour cela que nous avons préféré réaliser une sarbacanne plutôt qu'un modèle déjà fait.
+Nous avons choisi de réaliser une sarbacane électonique car on voulait un projet amusant. Nous sommes tous les deux frillant de FPS (jeu de tir à la première personne). Nous avons constaté qu'auparavant il y a eut plusieurs projet sur la fabrication d'une "arme" électronique (nerf). C'est pour cela que nous avons préféré réaliser une sarbacanne plutôt qu'un modèle déjà fait.
 <hr>
 
 <h2>Matériels utilisés :  </h2>
 
 <ul>
-<li> sarbacanne </li>
+<li> sarbacane </li>
 <li> moteurs pas à pas </li>
 <li> compresseur à air </li>
 <li> electrovanne </li>
