@@ -19,7 +19,7 @@ Nous avons choisi de réaliser une sarbacanne électonique car on voulait un pro
 <li> sarbacanne </li>
 <li> moteurs pas à pas </li>
 <li> compresseur à air </li>
-<li> solénoïde </li>
+<li> electrovanne </li>
 <li> support rotatif </li>
 <li> barillet </li>
 <li> un system bluetooth </li> </ul>
