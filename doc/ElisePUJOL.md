@@ -50,7 +50,6 @@ Maugan et moi avons essayé de trouver un moyen pour fixer le tuyau de telle sor
 
 Nous avons refais des tests pour que la pression soit plus forte car l'expérience avec le clou n'était pas satisfaisant. 
 
-
 * Séance du 17 avril 2018
 
 Nous avons essayé de relier la sarbacanne et le solénoïde. Les pièces ne collent pas entre elles.
@@ -61,4 +60,8 @@ Nous avons réussi à fabriquer la pièce qui permet de relier la sarbacanne au 
 
 * Séance du 7 mai 2018
 
-Nous avons connecté nos moteurs et notre module bluetooth à notre nouvel arduino. On s'est rendu compte que lorsque on active le bluetooth, il n'y plus assez de tension pour les moteurs. Il nous faut donc ........
+Nous avons connecté nos moteurs et notre module bluetooth à notre nouvel arduino. On s'est rendu compte que lorsque on active le bluetooth, il n'y plus assez de tension pour les moteurs. Il nous faut donc un adapteur 5V pour les moteurs.
+
+* Jusqu'au rendu
+
+On s'est rendu compte que les moteurs n'étaient pas assez puissant pour soulever un poid assez lourd. On a dû s'arranger pour que le moteur faisant le mouvement à la verticale ne porte pas l'électrovanne donc on y a mis un tuyau. On a assemblé toutes les pièces ensemble. Le système de rechargement étant trop complexe, on a laissé tombé.
