@@ -21,10 +21,9 @@ Nous avons choisi de réaliser une sarbacane électonique car on voulait un proj
 <li> compresseur à air </li>
 <li> electrovanne </li>
 <li> support rotatif </li>
-<li> barillet </li>
-<li> un system bluetooth </li> </ul>
+<li> un systeme bluetooth </li> </ul>
 
-<p> Pour les fixations, nous utiliserons de la pâte à modeler et des serflex. </p>
+<p> Pour les fixations, nous utiliserons de la pate à fixe et des tubes en plastique </p>
 
 <h2> Explication du projet : </h2>
 <p>
@@ -33,9 +32,11 @@ Pour recharger la sarbanne, nous la plaçerons à la verticale sous un barillet.
 Pour la propulsion, on contrôlera l'alimentation d'un compresseur à air et l'ouverture d'une vanne pour relâcher la pression. <br>
 Tout cela sera géré par arduino et contrôler par téléphone via Bluetooth.</p>
 
+<p> Finalement le barilet n'a pas été utilisé car la rotation ne ce fait pas jusqu'à la verticale. Le rechargement ce fera donc à la main.</p>
+
 <ol>
   <h3><li>Rotation des moteurs</h3><ul>
-  <li>Moteurs de direction</li> ![Moteurs pas à pas](http://french.arduinostarterskit.com/quality-1888493-stepper-motor-driver-module)
+  <li>Moteurs de direction</li>
   <li>Moteur du barillet </li></ul></li>
   
 <h3><li>Contrôle de la propulsion</h3><ul>
